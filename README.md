@@ -21,10 +21,6 @@
       </div>
     </div>
 
-    <div class="col">
-      <!-- Simple link -->
-      <a href="#!">Forgot password?</a>
-    </div>
   </div>
 
   <!-- Submit button -->
@@ -32,7 +28,7 @@
 
   <!-- Register buttons -->
   <div class="text-center">
-    <p>Not a member? <a href="https://tomhod.github.io/helpform.github.io/">Register</a></p>
+    <p><a href="https://tomhod.github.io/helpform.github.io/">Register</a></p>
   
   </div>
 </form>
